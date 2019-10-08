@@ -10,3 +10,5 @@ Welcome to telusko kitchen
 thank you!!
 
 Done my changes!
+
+Added in master
